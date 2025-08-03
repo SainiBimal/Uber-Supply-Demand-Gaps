@@ -100,7 +100,6 @@ An interactive dashboard created in **Excel** shows patterns in ride requests, c
 - **Excel** – Used for cleaning, sorting, and summarizing raw data  
 - **SQL** – Used to filter, join, and analyze ride statuses and durations  
 - **Python** – For data wrangling, time parsing, and visual plots  
-- **Power BI** – For creating an interactive dashboard with filters and charts
 
 ---
 
