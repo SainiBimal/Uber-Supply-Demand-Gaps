@@ -1,4 +1,4 @@
-# 🚖 UBER TRIP DATA ANALYSIS
+# 🚖 UBER SUPPLY DEMAND GAP ANALYSIS
 
 This project explores Uber ride data to understand ride demand, supply issues, peak hours, and trip performance using **Excel, SQL, and Python**
 
