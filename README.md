@@ -10,7 +10,8 @@ An interactive dashboard created in **Excel** shows patterns in ride requests, c
 
 ---
 
-<img width="1461" height="857" alt="Screenshot 2025-08-03 215904" src="https://github.com/user-attachments/assets/136899e6-b0ba-4c78-9c70-915fbd0a19da" />
+<img width="1474" height="849" alt="Screenshot 2025-08-04 104249" src="https://github.com/user-attachments/assets/e09644a2-a284-4ca6-af9d-93693f9f4513" />
+
 
 ---
 
